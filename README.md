@@ -6,6 +6,17 @@
 
 ---
 
+## 🟢 LIVE STATUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Online-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Learning-Spring%20Boot%20%7C%20AI%2FML-9D4EDD?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2DA44E?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" />
+</p>
+
+---
+
 ## 🖥️ SYSTEM STATUS
 
 ```bash
@@ -74,8 +85,8 @@ Developer Dashboard UI
 ## 📊 PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
@@ -84,6 +95,34 @@ Developer Dashboard UI
 
 <p align="center">
   <img src="https://github.com/KalinduMethmuditha/KalinduMethmuditha/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 VISITOR LOG
+
+```bash
+> visitor --track
+
+Status: Tracking active
+Profile views:
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KalinduMethmuditha&label=VISITORS&color=00F7FF&style=for-the-badge" />
+</p>
+
+```bash
+> log --message
+Thanks for visiting my developer console.
+```
+
+---
+
+## 🏅 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha&theme=onedark" />
 </p>
 
 ---
