@@ -1,31 +1,75 @@
-Welcome to My GitHub Profile!
+<h2 align="center">💻 Welcome to My GitHub Profile!</h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Kalindu+Methmuditha;Software+Engineering+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Kalindu+Methmuditha;SLIIT+IT+Undergraduate;Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI/ML+Learner" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
-* 🎓 Information Technology Student
-* 🌱 Learning **Java | Spring Boot | MERN**
-* 🔭 Working on university projects
-* 🎯 Goal: Become a Full-Stack Developer
+<table>
+  <tr>
+    <td>
+
+* 🎓 Information Technology Undergraduate at SLIIT
+* 🌱 Learning **MERN | Java | Spring Boot | AI/ML**
+* 🔭 Working on **industry-level university & personal projects**
+* 🎯 Goal: Become a **Full-Stack Developer & AI Engineer**
+* 💡 Passionate about building **scalable and real-world applications**
+* 📫 Email: **[kalindumethmuditha03@gmail.com](mailto:kalindumethmuditha03@gmail.com)**
+
+    </td>
+
+    <td>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
+    </td>
+  </tr>
+
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,mongodb,mysql,git,github,postman,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<h2>🏆 GitHub Stats</h2>
 
-![Streak](https://streak-stats.demolab.com?user=KalinduMethmuditha\&theme=tokyonight\&hide_border=true)
+<br/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinduMethmuditha\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://img.shields.io/badge/LEVEL-FULL%20STACK%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20FAST-2DA44E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalinduMethmuditha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalinduMethmuditha&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalinduMethmuditha&theme=react" />
+</p>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&icon_color=58a6ff&title_color=58a6ff&text_color=58a6ff&v=2" height="170"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" height="170"/>
+
+</div>
 
 ---
 
@@ -35,9 +79,15 @@ Welcome to My GitHub Profile!
 
 ---
 
+## 🏅 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=KalinduMethmuditha&color=blue)
+![](https://komarev.com/ghpvc/?username=KalinduMethmuditha\&color=blue)
 
 ---
 
@@ -52,3 +102,5 @@ Welcome to My GitHub Profile!
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
