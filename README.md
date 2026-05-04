@@ -1,106 +1,116 @@
-<h2 align="center">💻 Welcome to My GitHub Profile!</h2>
+<!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Kalindu+Methmuditha;SLIIT+IT+Undergraduate;Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI/ML+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Initializing+Kalindu+Methmuditha...;SLIIT+IT+Undergraduate;Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI/ML+Learner;System+Ready+✔" />
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+## 🖥️ SYSTEM STATUS
 
-<table>
-  <tr>
-    <td>
+```bash
+> whoami
+Kalindu Methmuditha
 
-* 🎓 Information Technology Undergraduate at SLIIT
-* 🌱 Learning **MERN | Java | Spring Boot | AI/ML**
-* 🔭 Working on **industry-level university & personal projects**
-* 🎯 Goal: Become a **Full-Stack Developer & AI Engineer**
-* 💡 Passionate about building **scalable and real-world applications**
-* 📫 Email: **[kalindumethmuditha03@gmail.com](mailto:kalindumethmuditha03@gmail.com)**
+> role --current
+Full-Stack Developer (MERN + Spring Boot)
 
-    </td>
+> education --status
+SLIIT IT Undergraduate (Software Engineering)
 
-    <td>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
-    </td>
-  </tr>
+> mission --goal
+Build scalable, real-world software systems
 
-</table>
+> learning --active
+MERN Stack | Java Spring Boot | AI/ML
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ CORE MODULES (SKILLS)
+
+```bash
+> frontend --load
+HTML | CSS | JavaScript | React
+
+> backend --load
+Node.js | Express | Java | Spring Boot
+
+> database --connect
+MongoDB | MySQL
+
+> tools --init
+Git | GitHub | Postman | VS Code
+```
+
+---
+
+## 🚀 DEPLOYED SYSTEMS (PROJECTS)
+
+```bash
+> run project_1
+Smart Campus Operations System
+- Facility booking & management
+- Ticketing & notifications
+- Role-based access control
+- Tech: Spring Boot + React + MongoDB
+
+> run project_2
+MyStock Management System
+- Inventory & supplier tracking
+- Low stock & expiry alerts
+- Dashboard analytics
+- Tech: MERN Stack
+
+> run project_3
+Developer Dashboard UI
+- Modern analytics interface
+- Responsive SaaS-style UI
+- Tech: HTML | CSS | JavaScript
+```
+
+---
+
+## 📊 PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,python,mongodb,mysql,git,github,postman,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<div align="center">
-
-<h2>🏆 GitHub Stats</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LEVEL-FULL%20STACK%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20FAST-2DA44E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-
-</div>
-
-<br/>
+## 🐍 SYSTEM ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KalinduMethmuditha&theme=tokyonight" />
+  <img src="https://github.com/KalinduMethmuditha/KalinduMethmuditha/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KalinduMethmuditha&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KalinduMethmuditha&theme=react" />
-</p>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&icon_color=58a6ff&title_color=58a6ff&text_color=58a6ff&v=2" height="170"/>
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" height="170"/>
-
-</div>
-
 ---
 
-## 🐍 Contribution Snake
+## 📡 CONNECT
 
-![snake gif](https://github.com/KalinduMethmuditha/KalinduMethmuditha/blob/output/github-contribution-grid-snake-dark.svg)
+```bash
+> contact --init
 
----
-
-## 🏅 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha\&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=KalinduMethmuditha\&color=blue)
-
----
-
-## 🌐 Connect with Me
+Email: kalindumethmuditha03@gmail.com
+GitHub: KalinduMethmuditha
+LinkedIn: Kalindu Methmuditha
+```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Kalindu-Methmuditha-667b99403" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/Kalindu-Methmuditha-667b99403">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="mailto:kalindumethmuditha03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Send-000000?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
+
+## ⚡ FINAL LOG
+
+```bash
+> system.out.println("Building systems. Learning fast. Ready for opportunities.");
+```
