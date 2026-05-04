@@ -27,7 +27,7 @@ Kalindu Methmuditha
 Full-Stack Developer (MERN + Spring Boot)
 
 > education --status
-SLIIT IT Undergraduate (Software Engineering)
+SLIIT IT Undergraduate 
 
 > mission --goal
 Build scalable, real-world software systems
