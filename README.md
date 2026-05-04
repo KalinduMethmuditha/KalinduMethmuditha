@@ -85,8 +85,7 @@ Developer Dashboard UI
 ## 📊 PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
-  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" />
+   <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
