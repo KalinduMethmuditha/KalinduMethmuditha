@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Initializing+Kalindu+Methmuditha...;SLIIT+IT+Undergraduate;Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI/ML+Learner;System+Ready+✔" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Initializing+Kalindu+Methmuditha...;SLIIT+IT+Undergraduate;Full-Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI%2FML;Building+Scalable+Systems+🚀" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## 🖥️ SYSTEM STATUS
+## 🖥️ SYSTEM PROFILE
 
 ```bash
 > whoami
@@ -33,64 +33,92 @@ SLIIT IT Undergraduate
 Build scalable, real-world software systems
 
 > learning --active
-MERN Stack | Java Spring Boot | AI/ML
+MERN Stack | Spring Boot | AI/ML
 ```
 
 ---
 
-## ⚙️ CORE MODULES (SKILLS)
+## ⚙️ CORE TECH STACK
+
+### 🧩 Frontend
 
 ```bash
-> frontend --load
 HTML | CSS | JavaScript | React
+```
 
-> backend --load
+### 🔧 Backend
+
+```bash
 Node.js | Express | Java | Spring Boot
+```
 
-> database --connect
+### 🗄️ Database
+
+```bash
 MongoDB | MySQL
+```
 
-> tools --init
+### 🛠️ Tools
+
+```bash
 Git | GitHub | Postman | VS Code
 ```
 
 ---
 
-## 🚀 DEPLOYED SYSTEMS (PROJECTS)
+## 🚀 PROJECTS
+
+### 📌 Smart Campus Operations System
 
 ```bash
-> run project_1
-Smart Campus Operations System
 - Facility booking & management
 - Ticketing & notifications
 - Role-based access control
 - Tech: Spring Boot + React + MongoDB
+```
 
-> run project_2
-MyStock Management System
+---
+
+### 📌 MyStock Management System
+
+```bash
 - Inventory & supplier tracking
 - Low stock & expiry alerts
 - Dashboard analytics
 - Tech: MERN Stack
+```
 
-> run project_3
-Developer Dashboard UI
-- Modern analytics interface
-- Responsive SaaS-style UI
+---
+
+### 📌 Developer Dashboard UI
+
+```bash
+- Modern SaaS-style analytics UI
+- Fully responsive design
 - Tech: HTML | CSS | JavaScript
 ```
 
 ---
 
-## 📊 PERFORMANCE METRICS
+## 📊 GITHUB STATS
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=KalinduMethmuditha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 SYSTEM ACTIVITY GRAPH
+## 🏅 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha&theme=onedark&no-frame=true&margin-w=15&column=7&v=2" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github.com/KalinduMethmuditha/KalinduMethmuditha/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -99,13 +127,6 @@ Developer Dashboard UI
 ---
 
 ## 👀 VISITOR LOG
-
-```bash
-> visitor --track
-
-Status: Tracking active
-Profile views:
-```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KalinduMethmuditha&label=VISITORS&color=00F7FF&style=for-the-badge" />
@@ -118,19 +139,9 @@ Thanks for visiting my developer console.
 
 ---
 
-## 🏅 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha&theme=onedark" />
-</p>
-
----
-
 ## 📡 CONNECT
 
 ```bash
-> contact --init
-
 Email: kalindumethmuditha03@gmail.com
 GitHub: KalinduMethmuditha
 LinkedIn: Kalindu Methmuditha
@@ -150,5 +161,5 @@ LinkedIn: Kalindu Methmuditha
 ## ⚡ FINAL LOG
 
 ```bash
-> system.out.println("Building systems. Learning fast. Ready for opportunities.");
+> system.out.println("Building systems. Scaling ideas. Ready for opportunities.");
 ```
