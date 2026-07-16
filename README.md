@@ -1,96 +1,142 @@
-<h1 align="center">Hi 👋, I'm Kalindu</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Engineer | Backend Focus | System Design Learner</h3>
+<!-- ================= HERO ================= -->
+
+<h1 align="center">Hi 👋, I'm Kalindu Methmuditha</h1>
+<h3 align="center">Full-Stack Developer | MERN | Spring Boot | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;Full-Stack+Development+%7C+Backend+Engineering;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 IT Undergraduate at **SLIIT**
-- 💻 Passionate about **Backend Development & System Design**
-- 🌱 Currently learning:
-  - Java (Spring Boot)
-  - JavaScript (Node.js)
-  - Databases (SQL)
-- 🎯 Goal: Become a **Full-Stack Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
-</p>
-
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,git,github" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## 🟢 LIVE STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-00ff88?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships-2DA44E?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 ABOUT ME
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+```bash
+> whoami
+Kalindu Methmuditha
 
----
+> role
+Full-Stack Developer (MERN + Spring Boot)
 
-## 📂 Featured Projects
+> education
+SLIIT IT Undergraduate
 
-### 🔹 Backend API Project
-- REST API with authentication
-- Built using **Spring Boot / Node.js**
-- Follows clean architecture
+> current_focus
+Backend Engineering | System Design | AI/ML
 
-### 🔹 Full-Stack App (Coming Soon 🚧)
-- Frontend + Backend integration
-- Real-world use case
-
----
-
-## 📈 Current Focus
-
-- 🔥 Mastering **Backend Development**
-- 🧠 Learning **System Design**
-- ⚡ Building **Real-World Projects**
+> mission
+Build scalable, real-world software systems
+```
 
 ---
 
-## 🤝 Connect With Me
+## ⚙️ TECH STACK
+
+### 🧩 Frontend
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🔧 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 📌 Smart Campus Operations System
+
+* Facility booking & management
+* Ticketing & notifications
+* Role-based access control
+* **Tech:** Spring Boot + React + MongoDB
+
+---
+
+### 📌 MyStock Management System
+
+* Inventory & supplier tracking
+* Low stock & expiry alerts
+* Dashboard analytics
+* **Tech:** MERN Stack
+
+---
+
+### 📌 Developer Dashboard UI
+
+* Modern SaaS-style UI
+* Fully responsive design
+* **Tech:** HTML, CSS, JavaScript
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KalinduMethmuditha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalinduMethmuditha&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KalinduMethmuditha&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KalinduMethmuditha/KalinduMethmuditha/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📡 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Kalindu-Methmuditha-667b99403">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:kalindumethmuditha03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-000000?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+## ⚡ FINAL NOTE
+
+```bash
+> system.out.println("Building systems. Scaling ideas. Ready for opportunities 🚀");
+```
